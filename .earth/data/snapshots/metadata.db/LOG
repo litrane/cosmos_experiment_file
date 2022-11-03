@@ -1,0 +1,6 @@
+=============== Nov 3, 2022 (CST) ===============
+18:01:28.632369 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:01:28.635501 db@open opening
+18:01:28.635814 version@stat F·[] S·0B[] Sc·[]
+18:01:28.637852 db@janitor F·2 G·0
+18:01:28.637921 db@open done T·2.400007ms
