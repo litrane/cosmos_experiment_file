@@ -1,0 +1,12 @@
+
+- name: validator1
+  type: local
+  address: earth1gqqsdt92sz3tuk2mtqsc7jaqlepdpn0pyzm83s
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A53+ivUwO1aPbynIs6MnMUtWdtPx+y78/pCMXuno0xBK"}'
+  mnemonic: ""
+
+
+**Important** write this mnemonic phrase in a safe place.
+It is the only way to recover your account if you ever forget your password.
+
+anchor swing tuna infant assume close cloth enact ostrich small dynamic horror blind suggest three coach champion stamp lucky smooth purse walnut helmet defy

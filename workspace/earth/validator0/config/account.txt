@@ -1,0 +1,12 @@
+
+- name: validator0
+  type: local
+  address: earth13l3crw6d292wkgmyyx97p6ynu9fpt090w2fggm
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A0zEKx6N6BjL9gE1VYDrZbjmGeSWvXj1iLCXSAghZnqo"}'
+  mnemonic: ""
+
+
+**Important** write this mnemonic phrase in a safe place.
+It is the only way to recover your account if you ever forget your password.
+
+receive hub access hospital foot boil glad speed release leopard trim impact two rocket connect link elegant mango chimney tourist illness powder result nature
