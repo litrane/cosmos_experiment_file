@@ -1,0 +1,12 @@
+
+- name: validator1
+  type: local
+  address: earth1ckc8qfwmmnmuxs2sjepl4x3t0c7pj6r9kmf9x9
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"Audmp9eluXKmAUKnxd6uB7PhvgNwofSHv42V3OmoafFG"}'
+  mnemonic: ""
+
+
+**Important** write this mnemonic phrase in a safe place.
+It is the only way to recover your account if you ever forget your password.
+
+damp divorce crazy winter super hundred coconut across robust spare glide coin adapt client ocean wolf power need core inflict shed solar dinner wait

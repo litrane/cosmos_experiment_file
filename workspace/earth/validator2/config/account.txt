@@ -1,0 +1,12 @@
+
+- name: validator2
+  type: local
+  address: earth19zlfk9kh2fqwa8fcqv3yv34vrh4l7yd9lpznyw
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A27u8TIAy4zcQAbyYX20MKp2xNnta94wk6SHnfNLLqN5"}'
+  mnemonic: ""
+
+
+**Important** write this mnemonic phrase in a safe place.
+It is the only way to recover your account if you ever forget your password.
+
+steak grace address remind must useful page solution grid garden tool remove impact pact end alter estate ship thank swap violin cash teach asthma

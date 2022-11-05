@@ -1,0 +1,12 @@
+
+- name: validator3
+  type: local
+  address: earth1mkw5g7tg2g2akaw6mzz25a25mgrt9xk765vv7h
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A2XaNhxpY5ar19fJwDJAl/ZRhbud3g62EG1To07yZwY8"}'
+  mnemonic: ""
+
+
+**Important** write this mnemonic phrase in a safe place.
+It is the only way to recover your account if you ever forget your password.
+
+neither winner enact entry forget wine fruit filter grab snake enrich verb mom settle silk share fuel already wing pistol comic wonder risk dream

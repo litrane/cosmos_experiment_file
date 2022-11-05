@@ -14,7 +14,7 @@ echo "Creating $BINARY instance with home=$CHAINDIR chain-id=$CHAINID..."
 
 # Build genesis file incl account for passed address	
 DENOM="coin"
-MAXCOINS="100000000000"$DENOM
+MAXCOINS="1000000000000"$DENOM
 COINS="90000000000"$DENOM	
 
 clean_setup(){
