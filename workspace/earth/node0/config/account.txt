@@ -1,12 +1,12 @@
 
 - name: node0
   type: local
-  address: earth14dq2erxmd72jc9lgwspmpsq78cq7lpa0cuqvun
-  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A8GmOLAPSKRAghmZ0w763x5Gca8S7v0HsmshkZktO2it"}'
+  address: earth1laqa7xk2upymjscrcv6yep8mhdufguvj6sn230
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AyEvujEhvdqJtTOBGzl06/wpR0EIXleRlCE11CgeNyN8"}'
   mnemonic: ""
 
 
 **Important** write this mnemonic phrase in a safe place.
 It is the only way to recover your account if you ever forget your password.
 
-valve legend filter hope learn scare wink unaware planet anchor slender begin any disagree wise metal remind mammal enemy symbol crunch pretty chair test
+enlist concert salute globe maid mechanic text churn govern tone symptom actress dilemma siren involve forward person become squeeze plastic chat debate capital mention
