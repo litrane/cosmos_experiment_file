@@ -1,12 +1,12 @@
 
 - name: validator0
   type: local
-  address: earth1t5als6347ntw5sg7spnq7n4hvnh34c934xctpd
-  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A4VcVdWH46eySosDBlsJYlS9XiKMYDUigTbaO8VSAtsy"}'
+  address: earth1cnp5ed6sra6rnfz5847p92lcuq6khr2spw54nd
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AjrJI/mLgBWUIhW/Ehq3RuHfYl5fZHl8dILFGF8pulm9"}'
   mnemonic: ""
 
 
 **Important** write this mnemonic phrase in a safe place.
 It is the only way to recover your account if you ever forget your password.
 
-trigger sunny bid ranch drive resemble filter maximum valve zone meadow climb maximum you strong destroy uncover bamboo multiply warrior brass profit tongue require
+critic just height walk produce hire misery neglect ignore silver market roast blossom silly such finish pitch enrich divorce industry rack alien erode car
