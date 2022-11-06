@@ -1,0 +1,12 @@
+
+- name: node1
+  type: local
+  address: earth16g4ftlwq3dpgs792hm343sv2haun6yzpuzsmjv
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AlE/JluAR4WEHaXndEWJivsQRdl0cAoYA1sNwLKOAAtL"}'
+  mnemonic: ""
+
+
+**Important** write this mnemonic phrase in a safe place.
+It is the only way to recover your account if you ever forget your password.
+
+unhappy mistake jewel duty expand year frequent december peanut small visual vital unhappy rubber east top pretty armed flower task siren evoke omit daughter

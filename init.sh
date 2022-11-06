@@ -9,7 +9,7 @@ VALIDATOR='validator'
 NODE='node'
 
 KBT="--keyring-backend=test"
-host_string=("10.148.0.2" "10.148.0.3" "10.148.0.4" "10.148.0.5" )
+host_string=("124.205.122.47" "124.205.122.47" "124.205.122.47" "124.205.122.47" )
 echo "Creating $BINARY instance with home=$CHAINDIR chain-id=$CHAINID..."	
 
 # Build genesis file incl account for passed address	

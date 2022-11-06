@@ -1,12 +1,12 @@
 
 - name: validator0
   type: local
-  address: earth1cnp5ed6sra6rnfz5847p92lcuq6khr2spw54nd
-  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AjrJI/mLgBWUIhW/Ehq3RuHfYl5fZHl8dILFGF8pulm9"}'
+  address: earth1j6h4v5863ezhpta9acm46y0ypg24fzsm9ftg70
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A7vYNYthmMa59+SqYqApOANsv4JPwl2nDIu1OWzVBfX+"}'
   mnemonic: ""
 
 
 **Important** write this mnemonic phrase in a safe place.
 It is the only way to recover your account if you ever forget your password.
 
-critic just height walk produce hire misery neglect ignore silver market roast blossom silly such finish pitch enrich divorce industry rack alien erode car
+vague turtle beach spring speak matrix orbit derive home genre define idle skin crawl banana frog begin hold pave critic husband adjust sign village

@@ -66,6 +66,19 @@ services:
      localnet:
        ipv4_address: 192.168.10.4
 
+ node1:
+   container_name: node1
+   image: cosmoscontracts/juno:latest
+   ports:
+   - "26666-26667:26656-26657"
+   - "1322:1317"
+   volumes:
+   - ./workspace:/workspace
+   command: /bin/sh -c 'junod start --home /workspace/test-chain-id/node1'
+   networks:
+     localnet:
+       ipv4_address: 192.168.10.5
+
 networks:
   localnet:
     driver: bridge
