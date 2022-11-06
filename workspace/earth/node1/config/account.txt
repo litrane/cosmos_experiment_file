@@ -1,12 +1,12 @@
 
 - name: node1
   type: local
-  address: earth1lyd5fl3xstezjc4lhjwd8jw0vhfrtz03ahmxst
-  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AzQjOi1Tisg2+IkskUnDwI2D8xX7oOzJ3YYUJruGpXG8"}'
+  address: earth14n9mm9dyl8va28q26lfugxna5jfc6gu33mllad
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AgGg80DxMIGwjE/95m20qfErj35b2nBwxXIbM0TTAyxN"}'
   mnemonic: ""
 
 
 **Important** write this mnemonic phrase in a safe place.
 It is the only way to recover your account if you ever forget your password.
 
-drama define math general floor echo orphan old book fish pizza razor clarify armed gift easy code logic tuna term chuckle slush earn farm
+uphold thing loan code conduct foot giraffe taste modify busy jewel lock silver plunge lock gym camera raccoon achieve imitate latin must hurdle proof

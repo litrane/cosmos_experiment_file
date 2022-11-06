@@ -1,12 +1,12 @@
 
 - name: node0
   type: local
-  address: earth1laqa7xk2upymjscrcv6yep8mhdufguvj6sn230
-  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AyEvujEhvdqJtTOBGzl06/wpR0EIXleRlCE11CgeNyN8"}'
+  address: earth1dgcmhn0ccjatuamdhglz4y8sjwxgncvkyu44mq
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AnmP5DS+l22eG3zTDZIu/bpLrU4argf/yyeOSEbTH1EP"}'
   mnemonic: ""
 
 
 **Important** write this mnemonic phrase in a safe place.
 It is the only way to recover your account if you ever forget your password.
 
-enlist concert salute globe maid mechanic text churn govern tone symptom actress dilemma siren involve forward person become squeeze plastic chat debate capital mention
+again tourist police lunar fitness arm split viable fever unaware fan slice false sentence cook marriage border flag worth lottery correct tunnel husband cabbage
