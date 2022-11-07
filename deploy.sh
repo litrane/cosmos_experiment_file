@@ -1,13 +1,17 @@
 #!/bin/bash
 
-host_string=("'pzl97@apt137.apt.emulab.net'" "'pzl97@apt156.apt.emulab.net'" "'root@20.163.221.185'" "'root@20.231.77.191'")
+host_string=("'pzl97@apt137.apt.emulab.net'" "'pzl97@apt156.apt.emulab.net'" "'pzl97@apt153.apt.emulab.net'" "'pzl97@apt145.apt.emulab.net'")
 name="deploy-cosmos"
+if [ "$1" == "init" ]; then 
+  tmux new-session -s $name -d
+fi 
+
 for i in $( seq 0 ${#host_string[@]} )
-tmux_name="$name:$i"
+
 do
+  tmux_name="$name:$i"
   #tmux neww -a -n "$client" -t $name
   if [ "$1" == "init" ]; then 
-  tmux new-session -s $name -d
   tmux new-window -n "$i" -t "$name" -d
   tmux send -t $tmux_name "ssh ${host_string[i]}" Enter
   tmux send -t $tmux_name "git clone https://github.com/litrane/cosmos_experiment_file.git" Enter
