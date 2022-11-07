@@ -1,0 +1,12 @@
+
+- name: validator3
+  type: local
+  address: earth1e8wuyxsj4kg454lazglqqc30dpsreqfes83tjy
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A6Z29MKgsLzcFcXOZWUY1ElECJmYAnIdnWuFm2iIy4vN"}'
+  mnemonic: ""
+
+
+**Important** write this mnemonic phrase in a safe place.
+It is the only way to recover your account if you ever forget your password.
+
+female morning clutch weapon paper real chuckle hire scorpion useless soon horror width shine head develop sausage method guitar salad expand bamboo autumn era

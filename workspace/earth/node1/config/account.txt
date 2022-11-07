@@ -1,0 +1,12 @@
+
+- name: node1
+  type: local
+  address: earth1vajz7pxtul94cjgpvvswy772yty3q5a23vy3f4
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AtbdgrGoLG09RNSAcFHOA7pO25cmT3zwnsvm2Vm2Xzs4"}'
+  mnemonic: ""
+
+
+**Important** write this mnemonic phrase in a safe place.
+It is the only way to recover your account if you ever forget your password.
+
+cross embark cute fitness entry devote lens devote drastic bid genre alarm record time join wage raccoon auction stand beauty journey weasel planet pulp

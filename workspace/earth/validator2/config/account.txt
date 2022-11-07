@@ -1,0 +1,12 @@
+
+- name: validator2
+  type: local
+  address: earth1x9s2qkhgrqylgkhw0a5zd4nacflehh3dng0dag
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A9DQPEj0FR9mujBto5fdMGs+YBl0XOFQoApXWaMOwJDO"}'
+  mnemonic: ""
+
+
+**Important** write this mnemonic phrase in a safe place.
+It is the only way to recover your account if you ever forget your password.
+
+attitude town salmon tattoo there portion tuna grid cruel sadness left like fringe assault margin canoe name enroll arm face dutch explain hazard diesel

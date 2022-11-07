@@ -1,0 +1,12 @@
+
+- name: node0
+  type: local
+  address: earth1rug4utjhg9a5xucksgej79srvv7l26jtretjsp
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A1VTyuk0vtdCVszEv1hfBs4FcOcFBU7rOrJQzomhojJi"}'
+  mnemonic: ""
+
+
+**Important** write this mnemonic phrase in a safe place.
+It is the only way to recover your account if you ever forget your password.
+
+elevator wait dirt switch loop chalk cat spring usual ecology expose spirit brain gravity dust glue guide ivory submit short tail iron dumb electric

@@ -1,12 +1,12 @@
 
 - name: validator1
   type: local
-  address: earth1shnpcww29uv8vap96rkcg9vvhlzwe5746w50qd
-  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AxZ9Ya4ZPLM+Byvm2kttIGSgCRX7AYSRidefO3G+Pvh1"}'
+  address: earth16eypjg5umy657v24yxqdlfgdg59tfg2vhtap7k
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AkbSonFn6K16H1PWsXk8KmyeQgjVp5txGYjTgAySEagD"}'
   mnemonic: ""
 
 
 **Important** write this mnemonic phrase in a safe place.
 It is the only way to recover your account if you ever forget your password.
 
-tomato inquiry uniform quick enrich episode utility sorry mango egg fly wasp found sight bubble problem allow tray say satisfy when stove spice uniform
+fabric robot general pioneer program strike castle fine outdoor conduct similar banana mail improve shoulder scorpion setup empower account door again youth claim march

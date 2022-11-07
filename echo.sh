@@ -5,9 +5,8 @@ name="deploy-cosmos"
 for i in $( seq 0 ${#host_string[@]} )
 
 do
-  echo "$name" Enter
-  val=`expr $i + 1`
-  echo "start node${val}!"
+  host ${host_string[i]} | grep "has address" | sed 's/has address/-/g'
+
   
 
 done
